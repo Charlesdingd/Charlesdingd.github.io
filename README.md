@@ -1,34 +1,27 @@
-# Weihang Ding — personal website
+# Weihang Ding — personal academic website
 
-A bilingual academic and professional website for Weihang (Charles) Ding.
+Live website: https://charlesdingd.github.io/
 
-Live address: https://charlesdingd.github.io/
+An English academic website with Home, Experience, Research, and Projects pages. The layout takes inspiration from [Junfei Zhan's academic homepage](https://junfei-z.github.io/): a profile and biography, interests and education, a News timeline, compact publication entries, and detailed experience timelines. This is an original static implementation.
 
-## Pages
+## Files and maintenance
 
-- `index.html`: English homepage, publications, projects, and education.
-- `experience.html`: all seven professional/research positions, education, certifications, and skills.
-- `zh.html` and `experience-zh.html`: corresponding Chinese pages.
-- `avatar.png`: current GitHub avatar. Replace this file to change the photo on all pages.
-- `style.css`: shared responsive layout, dark theme, and print styles.
-- `theme.js` and `main.js`: theme preference and toggle. All substantive content is available without JavaScript.
+- `index.html`: profile, About Me, interests, education overview, News, and publications.
+- `experience.html`: all seven professional/research positions with 24 achievement bullets, three education entries, four certifications, skills, and IELTS score.
+- `research.html`: research interests and publications.
+- `projects.html`: selected projects.
+- `avatar.png`: current GitHub avatar. Replace this file to update the portrait.
+- `style.css`: responsive layout, light/dark themes, and print styles.
+- `main.js`: mobile navigation, theme switching, and site search.
+- `search-data.js`: local search index; update when content changes.
+- `zh.html` and `experience-zh.html`: compatibility redirects to the English pages, preserving URL fragments when JavaScript is enabled.
 
-## Update
-
-Edit the relevant English and Chinese HTML files together. Preserve the date ranges, titles, and achievement metrics unless updating them from a new source. Update the footer and sitemap date after content changes.
-
-The site uses plain HTML, CSS, and JavaScript, with no build step or package installation required. To preview it, open `index.html`, or serve this directory with a static web server.
-
-## GitHub Pages
-
-Repository: `Charlesdingd/Charlesdingd.github.io`. In **Settings → Pages**, publish from **main / (root)**. The `.nojekyll` file allows static files to be served directly.
+There is no build dependency. Edit the HTML files and search index together, then commit to `main`. GitHub Pages publishes directly from the repository root. All substantive content is available without JavaScript.
 
 ## Content provenance
 
-Professional history, education, certifications, skills, and the two journal publication links were transcribed from the owner-provided [LinkedIn profile](https://www.linkedin.com/in/weihang-ding-2921a52a9/) and its full Experience, Education, and Certifications sections on September 19, 2026. All seven positions and their 24 achievement bullets are retained. Wording was lightly edited for formatting and grammar; the Chinese pages are translations.
+Professional history, education, certifications, skills, and the journal publication links were transcribed from the owner's [LinkedIn profile](https://www.linkedin.com/in/weihang-ding-2921a52a9/) and the complete Experience, Education, and Certifications sections on September 19, 2026. All seven positions and their 24 achievement bullets are retained, with light formatting and grammar edits.
 
-The EMNLP 2026 Industry Track acceptance is presented according to the owner's LinkedIn announcement and [Junfei Zhan's homepage](https://junfei-z.github.io/). No unavailable PDF, CV, Google Scholar profile, or paper code link has been invented. The academic date ranges follow LinkedIn as supplied.
+The EMNLP 2026 Industry Track acceptance follows the owner's [LinkedIn announcement](https://www.linkedin.com/feed/update/urn:li:activity:7497677497669443584/) and Junfei Zhan's homepage. News dates are shown at month precision. No unavailable paper PDF, CV, Google Scholar profile, or paper code link is invented.
 
-The `alpha-evolve-loop` project description is based on its [public repository README](https://github.com/Charlesdingd/alpha-evolve-loop). The `trustingdata.ai` project description follows the Stanford experience entry. The avatar is from the owner's [public GitHub profile](https://github.com/Charlesdingd).
-
-Layout inspiration: [Junfei Zhan's academic homepage](https://junfei-z.github.io/). This site's implementation is original and does not depend on the Hugo theme or copy his personal content.
+The `alpha-evolve-loop` description follows its [public README](https://github.com/Charlesdingd/alpha-evolve-loop). The `trustingdata.ai` description follows the Stanford experience entry. The avatar is from the owner's [public GitHub profile](https://github.com/Charlesdingd).
