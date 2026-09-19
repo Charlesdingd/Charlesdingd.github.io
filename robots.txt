@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charlesdingd.github.io/sitemap.xml
