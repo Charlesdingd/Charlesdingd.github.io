@@ -25,3 +25,9 @@ Professional history, education, certifications, skills, and the journal publica
 The EMNLP 2026 Industry Track acceptance follows the owner's [LinkedIn announcement](https://www.linkedin.com/feed/update/urn:li:activity:7497677497669443584/) and Junfei Zhan's homepage. News dates are shown at month precision. No unavailable paper PDF, CV, Google Scholar profile, or paper code link is invented.
 
 The `alpha-evolve-loop` description follows its [public README](https://github.com/Charlesdingd/alpha-evolve-loop). The `trustingdata.ai` description follows the Stanford experience entry. The avatar is from the owner's [public GitHub profile](https://github.com/Charlesdingd).
+
+## Organization images
+
+The locally hosted `logo-*.jpg` files come from the official organization pages linked from the owner's LinkedIn Experience and Education records. The homepage includes company logos and university logos; the full Experience page includes all seven organizations and all three schools. Each logo links to its corresponding organization page. Marks belong to their respective organizations and identify the owner's work or education history.
+
+The Chengdu Foreign Languages School image is displayed as its central emblem through a CSS clip, with the school name written in English beside it, to preserve the English-only presentation. Logo files are hosted with the site instead of relying on expiring LinkedIn CDN URLs.
