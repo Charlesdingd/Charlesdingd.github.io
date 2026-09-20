@@ -31,3 +31,7 @@ The `alpha-evolve-loop` description follows its [public README](https://github.c
 The locally hosted `logo-*.jpg` files come from the official organization pages linked from the owner's LinkedIn Experience and Education records. The homepage includes company logos and university logos; the full Experience page includes all seven organizations and all three schools. Each logo links to its corresponding organization page. Marks belong to their respective organizations and identify the owner's work or education history.
 
 The Chengdu Foreign Languages School image is displayed as its central emblem through a CSS clip, with the school name written in English beside it, to preserve the English-only presentation. Logo files are hosted with the site instead of relying on expiring LinkedIn CDN URLs.
+
+## Technical writing
+
+The owner identified the September 16, 2026 GMI Cloud article [Dynamic Model Escalation for Coding Agents: A GMI Router Experiment Across Two Harnesses](https://www.gmicloud.ai/en/blog/dynamic-model-escalation-for-coding-agents-a-gmi-router-experiment-across-two-harnesses) as their own technical writing. The homepage links to it under Technical Writing and News; the GMI Cloud experience entry also links to it. The title, publication date, and short experimental summary follow the original article. The external page displays Roan Weigert in its byline; the portfolio entry shows the publisher and date without adding an unverified author list or a sole-authorship claim.
