@@ -10,6 +10,7 @@ An English academic website with Home, Experience, Research, and Projects pages.
 - `experience.html`: all seven professional/research positions with achievement bullets, three education entries, four certifications, and skills.
 - `research.html`: research interests and publications.
 - `projects.html`: selected projects.
+- `CV_Weihang_Ding.pdf`: academic CV linked from the Download CV card on the homepage. Replace this file to update it.
 - `avatar.png`: current GitHub avatar. Replace this file to update the portrait.
 - `style.css`: responsive layout, light/dark themes, and print styles.
 - `main.js`: mobile navigation, theme switching, and site search.
