@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="VeriLoops: a builder and an independent validator joined in a loop">
+  <rect width="960" height="600" fill="#0f1b17"/>
+  <g fill="none" stroke="#1d3a30" stroke-width="1">
+    <path d="M0 120H960M0 240H960M0 360H960M0 480H960M160 0V600M320 0V600M480 0V600M640 0V600M800 0V600"/>
+  </g>
+  <text x="80" y="110" fill="#8cd0b4" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" letter-spacing="2">LOOP ENGINEERING</text>
+  <text x="80" y="176" fill="#edf0f5" font-family="Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="56" font-weight="700">VeriLoops</text>
+  <g font-family="Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="30" font-weight="600" text-anchor="middle">
+    <rect x="110" y="300" width="270" height="120" rx="18" fill="#16271f" stroke="#3d6b5a" stroke-width="2.5"/>
+    <text x="245" y="371" fill="#c1c9d5">Builder</text>
+    <rect x="580" y="300" width="270" height="120" rx="18" fill="#18372d" stroke="#8cd0b4" stroke-width="3.5"/>
+    <text x="715" y="371" fill="#edf0f5">Validator</text>
+  </g>
+  <g fill="none" stroke="#8cd0b4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 290C380 215 580 215 660 290"/>
+    <path d="M642 262l20 30-36 2"/>
+    <path d="M660 430C580 505 380 505 300 430"/>
+    <path d="M318 458l-20-30 36-2"/>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="21" fill="#9ca8b8" text-anchor="middle">
+    <text x="480" y="222">candidate</text>
+    <text x="480" y="512">verdict</text>
+  </g>
+</svg>
